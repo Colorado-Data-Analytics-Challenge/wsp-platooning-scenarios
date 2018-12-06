@@ -4,6 +4,16 @@ Creating a sustainable supply chain is critical for reducing carbon emissions an
 
 Adopting these technologies is not without it's risks and we sought to lay the groundwork for discovering where, and under what situations, platooning can be utilized. We propose building a platooning index that communicates to the public, trucking companies, and city/state/federal governments acceptable platooning corridors based on current conditions. We are very early in our research and will simply describe the factors that we currently understand affect platooning and provide a basic visualization.
 
+## Factors
+- **Infrastructure type & conditions**
+Certain infrastructure (bridges) may not be capable of allowing trucks to operate closely without severe damage and thus, may need to extend their following distances. Some bridges may have steel structures supporting them and dedicated short-range communications (DSRC) between vehicles could fail. Mapping these infrastructure would be critical to advance platooning safely.
+- **Steep grades**
+Trucking in the mountains is always a challenge and rising pitches may force longer following distances for safe operation. Couple grade with load and the problem becomes even more tricky.
+- **Weather conditions**
+Heavy-duty vehicles are acutely affected by high-wind conditions, communicating these conditions to an operating platoon would be necessary.
+
+## Data sources
+- ****
 
 ### Usage
 ```
